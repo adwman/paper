@@ -2,9 +2,10 @@
 How to use git branching with multiple branches
 
 #Author
-Andrew Wright
 Someone else
+Andrew Wright
 Gerard Capes
+A fourth person
 
 #Introduction
 I am learning what I need to do to use git.
