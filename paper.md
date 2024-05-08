@@ -23,3 +23,6 @@ We do some work on git
 
 #Results
 The simulations are working.
+
+#Figures
+Figures go in their own sections.
