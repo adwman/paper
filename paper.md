@@ -26,3 +26,6 @@ The simulations are working.
 
 #Figures
 Figures go in their own sections.
+
+#Conclusions
+This is when git ends.
