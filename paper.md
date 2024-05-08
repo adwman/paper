@@ -1,8 +1,9 @@
 # Title
-How to use git
+How to use git branching
 
 #Author
 Andrew Wright
+Gerard Capes
 
 #Introduction
 I am learning what I need to do to use git.
