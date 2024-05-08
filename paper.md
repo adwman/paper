@@ -20,3 +20,6 @@ We simulate branching in Git.
 
 #Methodology
 We do some work on git
+
+#Results
+The simulations are working.
