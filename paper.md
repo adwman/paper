@@ -17,3 +17,6 @@ There is more and more to this.
 
 #Simulations
 We simulate branching in Git.
+
+#Methodology
+We do some work on git
