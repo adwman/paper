@@ -13,3 +13,6 @@ I am getting better at this.
 I think.
 
 There is more and more to this.
+
+#Simulations
+We simulate branching in Git.
