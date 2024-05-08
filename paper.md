@@ -1,5 +1,8 @@
 # Title
-How to use github
+How to use git
 
 #Author
 Andrew Wright
+
+#Introduction
+I am learning what I need to do to use git.
